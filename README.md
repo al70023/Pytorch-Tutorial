@@ -1,6 +1,7 @@
 # Pytorch-Tutorial
 
 Introduction
+https://pytorch.org/tutorials/beginner/introyt/introyt1_tutorial.html
 - Lays out basic steps of implementing a simple PyTorch image labeler
 - Shows basic usage of Tensors
 - Breaks down basic steps of machine learning:
